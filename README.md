@@ -11,3 +11,6 @@ Here, we are classifying the expressed opinion in a document, a sentence, a twee
 - Tensorflow-gpu
 - Matplotlib
 - numpy
+
+# RESULTS
+By evaluating the model based on test sequences and test labels, we achieve a precision of 92.17%.
